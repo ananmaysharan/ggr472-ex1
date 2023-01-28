@@ -1,2 +1,2 @@
-# ggr472-ex1
+# ggr472-lab1
  GGR472 Website
